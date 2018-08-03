@@ -16,3 +16,8 @@ https://www.cnblogs.com/guwei4037/p/5591183.html
 
 
 https://blog.csdn.net/zp1996323/article/details/53558189
+
+
+vnode虚拟DOM
+
+https://blog.csdn.net/violetjack0808/article/category/6246882
